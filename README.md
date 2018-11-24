@@ -6,3 +6,4 @@
 1) Arduino
 2) Καλώδιο usb για σύνδεση του Arduino με υπολογιστή (A B USB cable)
 3) Ψηφιακή ζυγαριά με usb σύνδεση
+4) Arduino USB Host Shield για τη σύνδεση της ψηφιακής ζυγαριάς με το Arduino
